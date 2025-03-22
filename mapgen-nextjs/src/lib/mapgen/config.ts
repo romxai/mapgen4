@@ -5,7 +5,7 @@ import type { MapParams } from "./types";
 export const MAP_PARAMS: MapParams = {
   elevation: {
     seed: 187, // Fixed seed for deterministic generation
-    island: 0.5,
+    island: 0.2,
     noisy_coastlines: 0.01,
     hill_height: 0.02,
     mountain_jagged: 0.3,
